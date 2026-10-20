@@ -1,0 +1,8 @@
+# built programs and generated files
+01-coldread
+02-sweep
+04-fsyncs
+big.bin
+dirty.bin
+fsync-test.bin
+*.o

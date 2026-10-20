@@ -1,0 +1,5 @@
+{
+  "name": "os26-w7",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "./setup.sh && make"
+}
